@@ -2,4 +2,5 @@
 
 14: All the News That's Fit to Scrape
 
-Scraping News From Another site
+A Web App built to use a Mongo Scraper to grab News articles from another site to view,save, and manage as needed.
+A little Simple in Design but gets the job done!
